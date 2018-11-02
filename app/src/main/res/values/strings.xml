@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Alex</string>
+    <string name="txt_caption">caption</string>
+    <string name="btn_view">View Profile</string>
+    <string name="txt_bio">orem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque augue odio, rhoncus sit amet libero ac, luctus sodales massa. Aliquam ultricies orci ut lorem varius, eget laoreet magna elementum.</string>
+</resources>
